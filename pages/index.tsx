@@ -5,7 +5,7 @@ export default function index() {
   return (
     <div>
       <Head>
-        <title>Image Gallery</title>
+        <title>Instagram</title>
         <link rel="icon" href="/insta.png" />
         {/* <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet"></link> */}
       </Head>
